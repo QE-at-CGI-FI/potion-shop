@@ -4,11 +4,10 @@ This is edited from Christine Pinto's potion shop.
 
 ## Add playwright agents and skills
 
-npx playwright install
+npm init playwright@latest
 npx playwright init-agents --loop=vscode
 
-npx install -g @playwright/cli@latest
-playwright-cli --help
+npx playwright-cli 
 playwright-cli install --skills
 
 ## Add agentic-qe-fleet
