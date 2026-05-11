@@ -7,7 +7,7 @@ This is edited from Christine Pinto's potion shop.
 npm init playwright@latest
 npx playwright init-agents --loop=vscode
 
-npx playwright-cli 
+npx playwright-cli
 playwright-cli install --skills
 
 ## Add agentic-qe-fleet
