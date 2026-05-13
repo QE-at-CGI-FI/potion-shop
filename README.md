@@ -15,3 +15,8 @@ playwright-cli install --skills
 
 npm install -g agentic-qe
 aqe init --auto --with-copilot
+
+## Know the costs
+
+npm install -g codeburn
+codeburn today
